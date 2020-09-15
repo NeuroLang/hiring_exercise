@@ -1,1 +1,1 @@
-# hiring_excercise
+# hiring_exercise
